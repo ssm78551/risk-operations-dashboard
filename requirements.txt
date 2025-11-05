@@ -1,0 +1,3 @@
+streamlit
+pywin32
+holidays
